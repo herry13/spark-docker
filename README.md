@@ -1,10 +1,12 @@
-# Spark on Docker
+# Spark on Docker
 
 This repository provides an example of:
 - Setting up a Spark cluster using Docker Compose
 - Running a Spark application using a new container
 
-Requirement: Docker
+Requirement: [Docker](https://docker.com)
+
+How to use:
 
 1. Build a Docker image with Delta Lake
 
