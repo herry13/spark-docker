@@ -1,4 +1,4 @@
-# Spark Docker
+# Spark on Docker
 
 1. Build a Docker image with Delta Lake
 
