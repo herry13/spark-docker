@@ -1,4 +1,10 @@
-# Spark Docker
+# Spark on Docker
+
+This repository provides an example of:
+- Setting up a Spark cluster using Docker Compose
+- Running a Spark application using a new container
+
+Requirement: Docker
 
 1. Build a Docker image with Delta Lake
 
@@ -28,4 +34,4 @@
        /mnt/pyspark-hello-world.py
    ```
 
-Spark UI -->> http://localhost:8080
+Spark UI can be accessed at [http://localhost:8080](http://localhost:8080).
